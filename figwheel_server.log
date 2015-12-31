@@ -1,0 +1,617 @@
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+[31mCompiling "resources/public/js/main.js" failed.
+[0mclojure.lang.ExceptionInfo: Library name must be specified as a symbol in :require / :require-macros; offending spec: [[]] at line 1 src\om_next_mini_app\core.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.analyzer$error.invoke (analyzer.cljc:568)
+    cljs.analyzer$error.invoke (analyzer.cljc:566)
+    cljs.analyzer$basic_validate_ns_spec.invoke (analyzer.cljc:1693)
+    cljs.analyzer$parse_require_spec.invoke (analyzer.cljc:1739)
+    clojure.lang.AFn.applyToHelper (AFn.java:171)
+    clojure.lang.AFn.applyTo (AFn.java:144)
+    clojure.core$apply.invoke (core.clj:636)
+    clojure.core$partial$fn__4533.doInvoke (core.clj:2512)
+    clojure.lang.RestFn.invoke (RestFn.java:408)
+    clojure.core$map$fn__4553.invoke (core.clj:2624)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.Cons.next (Cons.java:39)
+    clojure.lang.RT.boundedLength (RT.java:1735)
+    clojure.lang.RestFn.applyTo (RestFn.java:130)
+    clojure.core$apply.invoke (core.clj:634)
+    cljs.analyzer$eval1855$fn__1857$fn__1862.invoke (analyzer.cljc:1926)
+    clojure.core.protocols/fn (protocols.clj:167)
+    clojure.core.protocols$fn__6478$G__6473__6487.invoke (protocols.clj:19)
+    clojure.core.protocols$seq_reduce.invoke (protocols.clj:31)
+    clojure.core.protocols/fn (protocols.clj:101)
+    clojure.core.protocols$fn__6452$G__6447__6465.invoke (protocols.clj:13)
+    clojure.core$reduce.invoke (core.clj:6519)
+    cljs.analyzer$eval1855$fn__1857.invoke (analyzer.cljc:1909)
+    clojure.lang.MultiFn.invoke (MultiFn.java:251)
+    cljs.analyzer$analyze_seq_STAR_.invoke (analyzer.cljc:2390)
+    cljs.analyzer$analyze_seq_STAR__wrap.invoke (analyzer.cljc:2395)
+    cljs.analyzer$analyze_seq.invoke (analyzer.cljc:2416)
+    cljs.analyzer$analyze_form.invoke (analyzer.cljc:2525)
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.089 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling resources\public\js\om\util.cljs
+Compiling resources\public\js\om\dom.cljs
+Compiling resources\public\js\om\next\cache.cljs
+Compiling resources\public\js\clojure\zip.cljs
+Compiling resources\public\js\om\next\impl\parser.cljc
+Compiling resources\public\js\om\next\protocols.cljs
+Compiling resources\public\js\om\tempid.cljc
+Compiling resources\public\js\clojure\walk.cljs
+Compiling resources\public\js\cognitect\transit.cljs
+Compiling resources\public\js\om\transit.cljc
+Compiling resources\public\js\om\next.cljs
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+Reading analysis cache for file:/C:/Users/KKoert/Documents/Sandbox/om-next-mini-app/src/om_next_mini_app/core.cljs
+notifying browser that file changed:  resources/public/js/goog/deps.js
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 9.573 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.313 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+WARNING: Wrong number of args (0) passed to om.next/add-root! at line 11 src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.352 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\parser.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out\om_min_todo\parser.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.424 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-next-mini-app\src\om_next_mini_app\parser.cljs
+Compiling src\om_next_mini_app\core.cljs
+WARNING: No such namespace: landing, could not locate landing.cljs, landing.cljc, or Closure namespace "" at line 29 src\om_next_mini_app\core.cljs
+WARNING: Use of undeclared Var landing/Root at line 29 src\om_next_mini_app\core.cljs
+WARNING: Wrong number of args (0) passed to om.next/add-root! at line 38 src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out\om_next_mini_app\parser.js
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.538 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+WARNING: No such namespace: landing, could not locate landing.cljs, landing.cljc, or Closure namespace "" at line 29 src\om_next_mini_app\core.cljs
+WARNING: Use of undeclared Var landing/Root at line 29 src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.392 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.245 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.334 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.264 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.312 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+[31mCompiling "resources/public/js/main.js" failed.
+[0mclojure.lang.ExceptionInfo: Library name must be specified as a symbol in :require / :require-macros; offending spec: [] at line 1 src\om_next_mini_app\core.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.analyzer$error.invoke (analyzer.cljc:568)
+    cljs.analyzer$error.invoke (analyzer.cljc:566)
+    cljs.analyzer$basic_validate_ns_spec.invoke (analyzer.cljc:1693)
+    cljs.analyzer$parse_require_spec.invoke (analyzer.cljc:1739)
+    clojure.lang.AFn.applyToHelper (AFn.java:171)
+    clojure.lang.AFn.applyTo (AFn.java:144)
+    clojure.core$apply.invoke (core.clj:636)
+    clojure.core$partial$fn__4533.doInvoke (core.clj:2512)
+    clojure.lang.RestFn.invoke (RestFn.java:408)
+    clojure.core$map$fn__4553.invoke (core.clj:2622)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.Cons.next (Cons.java:39)
+    clojure.lang.RT.boundedLength (RT.java:1735)
+    clojure.lang.RestFn.applyTo (RestFn.java:130)
+    clojure.core$apply.invoke (core.clj:634)
+    cljs.analyzer$eval1855$fn__1857$fn__1862.invoke (analyzer.cljc:1926)
+    clojure.core.protocols/fn (protocols.clj:167)
+    clojure.core.protocols$fn__6478$G__6473__6487.invoke (protocols.clj:19)
+    clojure.core.protocols$seq_reduce.invoke (protocols.clj:31)
+    clojure.core.protocols/fn (protocols.clj:101)
+    clojure.core.protocols$fn__6452$G__6447__6465.invoke (protocols.clj:13)
+    clojure.core$reduce.invoke (core.clj:6519)
+    cljs.analyzer$eval1855$fn__1857.invoke (analyzer.cljc:1909)
+    clojure.lang.MultiFn.invoke (MultiFn.java:251)
+    cljs.analyzer$analyze_seq_STAR_.invoke (analyzer.cljc:2390)
+    cljs.analyzer$analyze_seq_STAR__wrap.invoke (analyzer.cljc:2395)
+    cljs.analyzer$analyze_seq.invoke (analyzer.cljc:2416)
+    cljs.analyzer$analyze_form.invoke (analyzer.cljc:2525)
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.032 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-next-mini-app\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.266 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-next-mini-app\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.252 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.282 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.273 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.242 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.238 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+WARNING: Wrong number of args (0) passed to om.next/factory at line 24 src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.316 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.27 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.341 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.24 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.421 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+[31mCompiling "resources/public/js/main.js" failed.
+[0mclojure.lang.ExceptionInfo: :refer must be followed by a sequence of symbols in :require / :require-macros; offending spec: (cljsjs.react-bootstrap :as rboot :refer true) at line 1 src\om_next_mini_app\core.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.analyzer$error.invoke (analyzer.cljc:568)
+    cljs.analyzer$error.invoke (analyzer.cljc:566)
+    cljs.analyzer$parse_require_spec.invoke (analyzer.cljc:1763)
+    clojure.lang.AFn.applyToHelper (AFn.java:171)
+    clojure.lang.AFn.applyTo (AFn.java:144)
+    clojure.core$apply.invoke (core.clj:636)
+    clojure.core$partial$fn__4533.doInvoke (core.clj:2512)
+    clojure.lang.RestFn.invoke (RestFn.java:408)
+    clojure.core$map$fn__4553.invoke (core.clj:2622)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.Cons.next (Cons.java:39)
+    clojure.lang.RT.boundedLength (RT.java:1735)
+    clojure.lang.RestFn.applyTo (RestFn.java:130)
+    clojure.core$apply.invoke (core.clj:634)
+    cljs.analyzer$eval1855$fn__1857$fn__1862.invoke (analyzer.cljc:1926)
+    clojure.core.protocols/fn (protocols.clj:167)
+    clojure.core.protocols$fn__6478$G__6473__6487.invoke (protocols.clj:19)
+    clojure.core.protocols$seq_reduce.invoke (protocols.clj:31)
+    clojure.core.protocols/fn (protocols.clj:101)
+    clojure.core.protocols$fn__6452$G__6447__6465.invoke (protocols.clj:13)
+    clojure.core$reduce.invoke (core.clj:6519)
+    cljs.analyzer$eval1855$fn__1857.invoke (analyzer.cljc:1909)
+    clojure.lang.MultiFn.invoke (MultiFn.java:251)
+    cljs.analyzer$analyze_seq_STAR_.invoke (analyzer.cljc:2390)
+    cljs.analyzer$analyze_seq_STAR__wrap.invoke (analyzer.cljc:2395)
+    cljs.analyzer$analyze_seq.invoke (analyzer.cljc:2416)
+    cljs.analyzer$analyze_form.invoke (analyzer.cljc:2525)
+    cljs.analyzer$analyze_STAR_.invoke (analyzer.cljc:2572)
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.028 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-next-mini-app\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.24 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-next-mini-app\src\om_next_mini_app\core.cljs
+WARNING: Use of undeclared Var om-next-mini-app.core/rboot at line 31 C:\Users\KKoert\Documents\Sandbox\om-next-mini-app\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.279 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-next-mini-app\src\om_next_mini_app\core.cljs
+WARNING: Use of undeclared Var om-next-mini-app.core/rboot at line 31 C:\Users\KKoert\Documents\Sandbox\om-next-mini-app\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.281 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-next-mini-app\src\om_next_mini_app\core.cljs
+WARNING: Use of undeclared Var om-next-mini-app.core/rboot at line 31 C:\Users\KKoert\Documents\Sandbox\om-next-mini-app\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.238 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-next-mini-app\src\om_next_mini_app\core.cljs
+WARNING: Use of undeclared Var om-next-mini-app.core/ReactBootstrap at line 31 C:\Users\KKoert\Documents\Sandbox\om-next-mini-app\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.285 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-next-mini-app\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.245 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-next-mini-app\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.242 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-next-mini-app\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.213 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-next-mini-app\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.204 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.258 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+WARNING: Use of undeclared Var om-next-mini-app.core/aass at line 24 src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.335 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.218 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mERROR: Invalid token: : on file C:\Users\KKoert\Documents\Sandbox\om-next-mini-app\src\om_next_mini_app\core.cljs, line 29, column 46
+[32mSuccessfully compiled "resources/public/js/main.js" in 3.056 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.406 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.488 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.236 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.299 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+WARNING: Wrong number of args (1) passed to om-next-mini-app.core/rbButton at line 32 src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.313 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.202 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.321 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.322 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.241 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.25 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+WARNING: No such namespace: str, could not locate str.cljs, str.cljc, or Closure namespace "" at line 33 src\om_next_mini_app\core.cljs
+WARNING: Use of undeclared Var str/capitalize at line 33 src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.372 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+WARNING: No such namespace: str, could not locate str.cljs, str.cljc, or Closure namespace "" at line 33 src\om_next_mini_app\core.cljs
+WARNING: Use of undeclared Var str/capitalize at line 33 src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.267 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.4 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.22 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.285 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.222 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+WARNING: Use of undeclared Var om-next-mini-app.core/rboot at line 31 src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.37 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.258 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.232 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.314 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.258 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.203 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.204 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.202 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.221 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.233 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.293 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.239 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.272 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.24 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.21 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.191 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.22 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.21 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.25 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.196 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+WARNING: No such namespace: str, could not locate str.cljs, str.cljc, or Closure namespace "" at line 32 src\om_next_mini_app\core.cljs
+WARNING: Use of undeclared Var str/capitalize at line 32 src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.236 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.22 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.18 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.231 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.23 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.25 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.2 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.234 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.18 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.56 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.2 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.28 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.22 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.18 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.21 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.196 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.23 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.25 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.21 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.18 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.2 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: Wrong number of args (1) passed to: analyzer/eval1559/fn--1560/pfn--1561 at line 25 src\om_next_mini_app\core.cljs on file src\om_next_mini_app\core.cljs, line 25, column 1
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.318 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.25 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.26 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.19 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.442 seconds.[0m
