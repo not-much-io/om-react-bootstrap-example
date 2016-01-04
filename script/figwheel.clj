@@ -7,6 +7,7 @@
    :all-builds
    [{:id "dev"
      :figwheel true
+     :optimizations :advanced
      :source-paths ["src"]
      :compiler {:main 'om-next-mini-app.core
                 :asset-path "js"

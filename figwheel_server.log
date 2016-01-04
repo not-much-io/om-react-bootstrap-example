@@ -615,3 +615,221 @@ Compiling src\om_next_mini_app\core.cljs
 Compiling target\figwheel_temp\dev\figwheel\connect.cljs
 notifying browser that file changed:  out\om_next_mini_app\core.js
 [32mSuccessfully compiled "resources/public/js/main.js" in 0.442 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs, line 32, column 55
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.32 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  resources/public/js/goog/deps.js
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.718 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.328 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.026 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.29 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.321 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.41 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.3 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.341 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+WARNING: Use of undeclared Var om-next-mini-app.core/Text at line 31 C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.297 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.24 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.298 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.286 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.385 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.494 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.342 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.244 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.389 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.477 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.379 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.326 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs, line 43, column 42
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.149 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.233 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.217 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.289 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.313 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.437 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.213 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.256 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.236 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.214 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs, line 43, column 42
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.189 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.259 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.256 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.229 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.203 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.274 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.229 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.217 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.262 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.24 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.238 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.23 seconds.[0m

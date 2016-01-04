@@ -21,15 +21,31 @@
   (om/reconciler {:state  app-state
                   :parser p/parser}))
 
-(def rbootButton (js/React.createFactory js/ReactBootstrap.Button))
+(def bsPageHeader     (js/React.createFactory js/ReactBootstrap.PageHeader))
+(def bsButtonToolbar  (js/React.createFactory js/ReactBootstrap.ButtonToolbar))
+(def bsButton         (js/React.createFactory js/ReactBootstrap.Button))
+(def bsPanel          (js/React.createFactory js/ReactBootstrap.Panel))
+(def bsAccordion      (js/React.createFactory js/ReactBootstrap.Accordion))
+(def bsProgressBar    (js/React.createFactory js/ReactBootstrap.ProgressBar))
 
 (defui Root
   Object
   (render [this]
     (dom/div nil
-             (apply dom/div nil
-                    (map #(rbootButton #js {:bsStyle %} "Test")
-                         ["default" "primary" "success" "info" "warning" "danger"])))))
+             (bsPageHeader nil "Example page header")
+             (bsAccordion nil
+               (bsPanel #js {:header      "Header1"
+                             :eventKey "1"} "Text1")
+               (bsPanel #js {:header      "Header2"
+                             :eventKey "2"} "Text2")
+               (bsPanel #js {:header      "Header3"
+                             :eventKey "3"} "Text3"))
+             (bsProgressBar #js {:now 45})
+             (bsButtonToolbar nil
+                              (map #(bsButton #js {:bsStyle %
+                                                   :onClick (fn [] (println %))
+                                                   :key %} %)
+                                   ["default" "primary" "success" "info" "warning" "danger"])))))
 
 (om/add-root! reconciler
               Root
