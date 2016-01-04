@@ -4,4 +4,4 @@
                  [org.clojure/clojurescript "1.7.170"]
                  [org.omcljs/om "1.0.0-alpha28"]
                  [figwheel-sidecar "0.5.0-SNAPSHOT" :scope "test"]
-                 [cljsjs/react-bootstrap "0.27.3-0"]])
+                 [cljsjs/react-bootstrap "0.27.3-0" :exclusions [org.webjars.bower/jquery]]])

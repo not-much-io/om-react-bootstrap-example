@@ -833,3 +833,15 @@ Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_ne
 Compiling target\figwheel_temp\dev\figwheel\connect.cljs
 notifying browser that file changed:  out\om_next_mini_app\core.js
 [32mSuccessfully compiled "resources/public/js/main.js" in 0.23 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  resources/public/js/goog/deps.js
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.471 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling C:\Users\KKoert\Documents\Sandbox\om-react-bootstrap-example\src\om_next_mini_app\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+notifying browser that file changed:  out\om_next_mini_app\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.339 seconds.[0m

@@ -21,18 +21,24 @@
   (om/reconciler {:state  app-state
                   :parser p/parser}))
 
+(def bsNavBar         (js/React.createFactory js/ReactBootstrap.Navbar))
 (def bsPageHeader     (js/React.createFactory js/ReactBootstrap.PageHeader))
 (def bsButtonToolbar  (js/React.createFactory js/ReactBootstrap.ButtonToolbar))
 (def bsButton         (js/React.createFactory js/ReactBootstrap.Button))
 (def bsPanel          (js/React.createFactory js/ReactBootstrap.Panel))
 (def bsAccordion      (js/React.createFactory js/ReactBootstrap.Accordion))
 (def bsProgressBar    (js/React.createFactory js/ReactBootstrap.ProgressBar))
+(def bsInput          (js/React.createFactory js/ReactBootstrap.Input))
 
 (defui Root
   Object
   (render [this]
     (dom/div nil
+             (bsNavBar nil "")
              (bsPageHeader nil "Example page header")
+             (bsInput #js {:type "text"
+                           :label "Label"
+                           :placeholder "Placeholder"})
              (bsAccordion nil
                (bsPanel #js {:header      "Header1"
                              :eventKey "1"} "Text1")
